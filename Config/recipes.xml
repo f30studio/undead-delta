@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configs>
+  <append xpath="/recipes">
+    <!-- <editor-fold desc="section::recipes::craft_area::workbench"> -->
+    <recipe name="smallEngine" count="1" craft_time="60" craft_area="workbench"
+            tags="perkAdvancedEngineering,learnable">
+      <ingredient name="resourceMechanicalParts" count="5"/>
+      <ingredient name="resourceOil" count="2"/>
+      <ingredient name="resourceForgedIron" count="5"/>
+      <ingredient name="resourceForgedSteel" count="10"/>
+      <ingredient name="resourceSpring" count="20"/>
+    </recipe>
+    <!-- </editor-fold> -->
+
+    <!-- <editor-fold desc="section::recipes::craft_area::chemistryStation"> -->
+    <recipe name="resourceAcid" count="1" craft_area="chemistryStation"
+            tags="perkAdvancedEngineering,chemStationCrafting">
+      <ingredient name="resourcePotassiumNitratePowder" count="5"/>
+      <ingredient name="resourceCoal" count="5"/>
+      <ingredient name="drinkJarRiverWater" count="1"/>
+      <ingredient name="resourceBone" count="1"/>
+    </recipe>
+    <!-- </editor-fold> -->
+
+    <!-- <editor-fold desc="section::recipes::craft_area::forge"> -->
+    <recipe name="toolBeaker" count="1" material_based="true" craft_area="forge" tags="perkAdvancedEngineering">
+      <ingredient name="unit_glass" count="50"/>
+      <ingredient name="unit_lead" count="20"/>
+      <ingredient name="unit_clay" count="20"/>
+    </recipe>
+    <!-- </editor-fold> -->
+  </append>
+</configs>
