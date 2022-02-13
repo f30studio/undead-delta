@@ -10,9 +10,9 @@ This is first release of **Undead Legacy** mod. adding new recipes, and changing
 
 ### Added
 
-- New crafting recipes:
+- New crafting items:
     - Acid
-    - Small engine
+    - Small Engine
     - Beaker
 - New User Interface
     - Left Side UI:
