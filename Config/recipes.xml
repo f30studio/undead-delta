@@ -6,15 +6,21 @@
             tags="perkAdvancedEngineering,learnable">
       <ingredient name="resourceMechanicalParts" count="5"/>
       <ingredient name="resourceOil" count="2"/>
-      <ingredient name="resourceForgedIron" count="5"/>
       <ingredient name="resourceForgedSteel" count="10"/>
       <ingredient name="resourceSpring" count="20"/>
+    </recipe>
+    <recipe name="solarCell" count="1" craft_time="60" craft_area="workbench"
+            tags="perkAdvancedEngineering,learnable">
+      <ingredient name="resourceElectricParts" count="20"/>
+      <ingredient name="resourceScrapLead" count="10"/>
+      <ingredient name="resourceMetalPipe" count="5"/>
+      <ingredient name="resourceDuctTape" count="3"/>
     </recipe>
     <!-- </editor-fold> -->
 
     <!-- <editor-fold desc="section::recipes::craft_area::chemistryStation"> -->
     <recipe name="resourceAcid" count="1" craft_area="chemistryStation"
-            tags="perkAdvancedEngineering,chemStationCrafting">
+            tags="perkAdvancedEngineering,learnable,chemStationCrafting">
       <ingredient name="resourcePotassiumNitratePowder" count="5"/>
       <ingredient name="resourceCoal" count="5"/>
       <ingredient name="drinkJarRiverWater" count="1"/>
@@ -23,7 +29,7 @@
     <!-- </editor-fold> -->
 
     <!-- <editor-fold desc="section::recipes::craft_area::forge"> -->
-    <recipe name="toolBeaker" count="1" material_based="true" craft_area="forge" tags="perkAdvancedEngineering">
+    <recipe name="toolBeaker" count="1" material_based="true" craft_area="forge" tags="perkAdvancedEngineering,learnable">
       <ingredient name="unit_glass" count="50"/>
       <ingredient name="unit_lead" count="20"/>
       <ingredient name="unit_clay" count="20"/>
