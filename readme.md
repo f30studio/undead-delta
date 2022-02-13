@@ -1,6 +1,7 @@
 # Undead Delta
 
-7 Days to Die alpha 20 mod adding new crafting items, changing some user interface and more.
+7 Days to Die alpha 20 mod adding new crafting items, changing some user interface and more. This mod is still under
+heavy development, if you wanted to use this mod right now, you can use `develop` branch.
 
 ## Getting Started
 
