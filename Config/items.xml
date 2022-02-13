@@ -109,13 +109,22 @@
   <!-- </editor-fold> -->
   <!-- </editor-fold> -->
 
-  <!-- <editor-fold desc="section::food"> -->
+  <!-- <editor-fold desc="section::food_and_water"> -->
   <set xpath="/items/item[@name='foodCanBeef']/property[@name='Stacknumber']/@value">50</set>
-
   <set xpath="/items/item[@name='foodMeatStew']/property[@name='Stacknumber']/@value">20</set>
   <set xpath="/items/item[@name='foodHoboStew']/property[@name='Stacknumber']/@value">20</set>
   <set xpath="/items/item[@name='foodGumboStew']/property[@name='Stacknumber']/@value">20</set>
   <set xpath="/items/item[@name='foodVegetableStew']/property[@name='Stacknumber']/@value">20</set>
+
+  <set xpath="/items/item[@name='drinkJarBoiledWater']/property[@name='Stacknumber']/@value">50</set>
+  <set xpath="/items/item[@name='drinkJarPureMineralWater']/property[@name='Stacknumber']/@value">50</set>
+  <set xpath="/items/item[@name='drinkJarRiverWater']/property[@name='Stacknumber']/@value">50</set>
+  <set xpath="/items/item[@name='drinkJarYuccaJuice']/property[@name='Stacknumber']/@value">50</set>
+  <set xpath="/items/item[@name='drinkJarGoldenRodTea']/property[@name='Stacknumber']/@value">50</set>
+  <set xpath="/items/item[@name='drinkJarRedTea']/property[@name='Stacknumber']/@value">50</set>
+  <set xpath="/items/item[@name='drinkYuccaJuiceSmoothie']/property[@name='Stacknumber']/@value">50</set>
+  <set xpath="/items/item[@name='drinkJarCoffee']/property[@name='Stacknumber']/@value">50</set>
+  <set xpath="/items/item[@name='drinkJarBeer']/property[@name='Stacknumber']/@value">50</set>
   <!-- </editor-fold> -->
 
   <!-- <editor-fold desc="section::foodCan"> -->

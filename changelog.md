@@ -13,6 +13,8 @@ This is first release of **Undead Legacy** mod. adding new recipes, and changing
     - Bottle of acid now can be stacked up to 500.
     - Beaker now can be stacked up to 50.
     - Food cans can be stacked up to 20
+    - Murky Water, Boiled Water, Pure Mineral Water, Yucca Juice, Goldenrod Tea, Red Tea and Yucca Juice Smoothie now
+      can be stacked up to 50.
     - Meat Stew, Hobo Stew, Gumbo Stew and Vegetable Stew now can be stacked up to 20.
     - 9mm, 7.62mm, Shotgun shells ammo now can be stacked up to 500.
     - Pipe bomb, Stick of Dynamite, Molotov Cocktail, Flare can be stacked up to 50.
